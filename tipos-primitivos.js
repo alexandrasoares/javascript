@@ -42,4 +42,8 @@ const segundoValor = 10;
 
 console.log(primeiroValor === segundoValor); // retorna false porque 5 e diferente de 10 
 
+// = atribui um valor para a variavel
+// == compara os valores
+// === compara os valores e o tipo
+
 
